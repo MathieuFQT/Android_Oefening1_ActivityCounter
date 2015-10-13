@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mini_.helloworld" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".ActivityOne"
+            android:label="@string/title_activity_activity_one" >
+        </activity>
+        <activity
+            android:name=".ActivityTwo"
+            android:label="@string/title_activity_activity_two" >
+        </activity>
+    </application>
+
+</manifest>

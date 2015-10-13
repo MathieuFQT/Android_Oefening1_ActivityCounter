@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Proces Counter</string>
+
+    <string name="onCreateStr">onCreate():</string>
+    <string name="onStartStr">onStart():</string>
+    <string name="onResumeStr">onResume():</string>
+    <string name="onRestartStr">onRestart():</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_one">ActivityOne</string>
+    <string name="title_activity_activity_two">ActivityTwo</string>
+</resources>
